@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 
 ## 🧠 Coding Profiles
 - 💻 LeetCode: https://leetcode.com/Harshini12317
+- ![LeetCode Stats](https://leetcard.jacoblin.cool/Harshini12317)
 - ![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)
