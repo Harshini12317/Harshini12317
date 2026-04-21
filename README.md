@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 ![Stats](https://github-readme-stats.vercel.app/api?username=Harshini12317&show_icons=true)
 ![Streak](https://streak-stats.demolab.com?user=Harshini12317)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshini12317)
+
+## 🧠 Coding Profiles
+- 💻 LeetCode: https://leetcode.com/Harshini12317
+- ![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)
