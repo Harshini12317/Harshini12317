@@ -78,6 +78,58 @@
 
 ---
 
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 🌸 Basho by Shivangi
+
+A production-ready full-stack e-commerce & workshop platform with secure authentication, Razorpay payments, admin dashboard, media management, and responsive UI.
+
+### ✨ Features
+🛒 E-Commerce Platform  
+🎨 Workshops & Events  
+💳 Razorpay Integration  
+🔐 Authentication System  
+📦 Admin Dashboard  
+☁️ Cloudinary Media Storage  
+
+### 🔧 Tech Stack
+`Next.js` `React` `TypeScript` `MongoDB` `Tailwind CSS`
+
+🔗 [Live Demo](https://bashoproject.vercel.app)  
+🔗 [Repository](https://github.com/Harshini12317/Basho-by-Shivangi)
+
+</td>
+
+<td width="50%">
+
+## 🗳️ VoteByte
+
+A secure online voting system with biometric face recognition authentication, role-based access control, and real-time election result tracking.
+
+### ✨ Features
+🛡️ Face Recognition Authentication  
+🗳️ Secure Online Voting  
+📊 Live Election Results  
+👤 Role-Based Access Control  
+🔐 JWT Authentication  
+
+### 🔧 Tech Stack
+`React` `Node.js` `Express.js` `PostgreSQL` `Prisma`
+
+🔗 [Repository](https://github.com/Harshini12317/VoteByte)
+
+</td>
+</tr>
+</table>
+
+---
+
 # ✨ Quote of the Day
 
 <p align="center">
