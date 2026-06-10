@@ -50,7 +50,7 @@
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 
-<br><br>
+
 
 <!-- Frontend -->
 <p>
@@ -64,7 +64,7 @@
 </p>
 
 
-<br><br>
+
 
 <!-- Backend -->
 <p>
@@ -73,7 +73,7 @@
 </p>
 
 
-<br><br>
+
 
 <!-- Database -->
 <p>
@@ -84,7 +84,7 @@
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
-<br><br>
+
 
 <!-- AI / ML -->
 <p>
@@ -94,7 +94,7 @@
 </p>
 
 
-<br><br>
+
 
 <!-- Tools -->
 <p>
